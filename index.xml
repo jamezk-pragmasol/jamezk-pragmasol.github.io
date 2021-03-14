@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pragmasol Consulting</title>
+    <link>http://pragmasol.org.uk/</link>
+    <description>Recent content on Pragmasol Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://pragmasol.org.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Career Profile</title>
+      <link>http://pragmasol.org.uk/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pragmasol.org.uk/profile/</guid>
+      <description>Summary A Consultant Architect and Software Engineer with extensive experience in delivering robust, distributed, web-scale systems using Cloud infrastructure and proven database technologies.
+I have the insight and vision to understand both tactical and strategic business goals and how to deliver the maximum value where it matters. Whether through architecture, software and tools or by coaching and mentoring to help minimise cost.
+ Key Skills  Big Data, Solutions and Enterprise Architecture Pragmatic approach to software design and implementation Exceptional analytical and troubleshooting capabilities Strong mentoring and coaching skills Technology evaluation and due diligence Proficient verbal and written communicator at all levels Mentoring and technical leadership   Key Technical Capabilities  Scala Java Flink Kafka - Streams, KSQL, Connect Spark Cassandra Hadoop Linux Docker AWS GCP   Career History Wayfair Europe, Data Engineering Consultant, July 2020 - Present Initially working on a discovery phase of a project to design an appropriate target architecture for supplier data where I engaged with major stakeholders to understand the existing mechanisms that supply this data.</description>
+    </item>
+    
+  </channel>
+</rss>
