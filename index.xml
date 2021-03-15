@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>About</title>
+      <link>http://www.pragmasol.org.uk/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pragmasol.org.uk/about/</guid>
+      <description>Pragmasol Consultancy Pragmasol is a Software Development Consultancy based in the UK.
+Our core areas of expertise are:
+ Data Engineering Distributed Systems Scalability Cloud Infrastructure Mentoring and Coaching  We believe that every problem should be approached with an open mind and that solutions should be delivered using the correct tools for the job. We believe in quality over quantity and concise elegant code that is readable, well documented and easy to maintain.</description>
+    </item>
+    
+    <item>
       <title>Career Profile</title>
       <link>http://www.pragmasol.org.uk/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
